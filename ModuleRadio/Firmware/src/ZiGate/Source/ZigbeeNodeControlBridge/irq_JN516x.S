@@ -3,7 +3,7 @@
 #
 #  Created By:         Ian Morris
 #
-#  Original Release:   January 21, 2010
+#  Original Release:   January 21, 2010.
 #
 #  Module Description: Handles interrupts required by FreeRTOS to switch
 #                      tasks, automatically using the tick timer or
